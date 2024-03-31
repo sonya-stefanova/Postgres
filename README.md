@@ -1,3 +1,4 @@
 # Postgres
 Postgres - Developers' Exercises
-![image](https://github.com/sonya-stefanova/Postgres/assets/72320076/b45bda6d-0da5-4edf-8013-d96635e473f6)
+![image](https://github.com/sonya-stefanova/Postgres/assets/72320076/c7a2bb5a-045f-4010-8a8e-b40590e57549)
+
