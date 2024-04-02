@@ -1,0 +1,1 @@
+SELECT '1 D 20 h 40 m 35 s'::interval - '1 D':: interval;
