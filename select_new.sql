@@ -1,2 +1,2 @@
-SELECT id, name
+SELECT *
 from minions_info;
