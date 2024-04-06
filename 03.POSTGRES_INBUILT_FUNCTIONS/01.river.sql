@@ -1,3 +1,5 @@
+CREATE OR REPLACE VIEW "view_river_info"
+AS
 SELECT
 	CONCAT_WS(
 		' ',
