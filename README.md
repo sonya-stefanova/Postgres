@@ -6,3 +6,6 @@ Postgres - Developers' Exercises
 
 PHOTO SHOOTING ERD
 ![image](https://github.com/sonya-stefanova/Postgres/assets/72320076/478c2fa8-e688-4e7e-9708-4b3ea9a925b0)
+
+STUDY SESSION ERD (MANY_TO_MANY)
+![image](https://github.com/sonya-stefanova/Postgres/assets/72320076/de1abb67-df39-443d-b07c-aa000e885f0d)
